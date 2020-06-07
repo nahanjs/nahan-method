@@ -1,6 +1,6 @@
 {
   "name": "nahan-method",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Method middleware for nahan",
   "main": "index.js",
   "scripts": {
