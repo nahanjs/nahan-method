@@ -5,10 +5,10 @@ Method middleware for nahan
 [![Build Status][travis-ci-image]][travis-ci-url]
 [![Coverage Status][coveralls-image]][coveralls-url]
 
-[travis-ci-image]: https://travis-ci.org/LabMemNo003/nahan-method.svg?branch=master
-[travis-ci-url]: https://travis-ci.org/LabMemNo003/nahan-method
-[coveralls-image]: https://coveralls.io/repos/github/LabMemNo003/nahan-method/badge.svg?branch=master
-[coveralls-url]: https://coveralls.io/github/LabMemNo003/nahan-method?branch=master
+[travis-ci-image]: https://travis-ci.org/nahanjs/nahan-method.svg?branch=master
+[travis-ci-url]: https://travis-ci.org/nahanjs/nahan-method
+[coveralls-image]: https://coveralls.io/repos/github/nahanjs/nahan-method/badge.svg?branch=master
+[coveralls-url]: https://coveralls.io/github/nahanjs/nahan-method?branch=master
 
 # Example
 
